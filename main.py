@@ -10,7 +10,7 @@ print("Efter loopen")
 for i in range(5):
     print(i)
 """""
-
+#
 user_input = ""
 while user_input != "q":
     print("Press 'q' to quit.")
