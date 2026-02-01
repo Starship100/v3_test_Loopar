@@ -7,8 +7,6 @@ while r > 0:
 
 print("Efter loopen")
 
-for i in range(5):
-    print(i)
 """""
 #
 user_input = ""
