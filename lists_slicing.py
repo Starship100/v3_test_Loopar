@@ -4,6 +4,8 @@ print(alphabet[0:10:3])
 print(alphabet[:5:2])
 print(alphabet[12:17])
 
+print("----------------------")
+
 # Räkna ut summan av talen i strängen
 # split - separerar strängen
 # strip - tar bort whitespace
