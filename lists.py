@@ -16,6 +16,6 @@ friends[-1] = "Gollum"
 print(friends)
 print(friends[-1])
 friends.remove("Merry")
-print(friends)
+print(", " .join(friends))
 friends.pop()
-print(friends)
+print(", " .join(friends))
